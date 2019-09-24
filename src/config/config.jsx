@@ -1,4 +1,4 @@
 global.config = {
-    domain: "http://47.106.222.19:",
+    domain: "http://127.0.0.1:",
     port: "8081",
 }
